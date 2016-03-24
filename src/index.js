@@ -6,7 +6,7 @@ import SearchBar from './components/searchBar';
 import VideoList from './components/videoList';
 import VideoDetail from './components/VideoDetail';
 
-const APIKEY = "AIzaSyDn_qAYhtrEd27GSp6ndZvdC-IRGpZTAOo";
+const APIKEY = "APIKEY GOES HERE";
 
 
 // Functional Based component is a component that doesn't keep track of state. const ==> Functional
